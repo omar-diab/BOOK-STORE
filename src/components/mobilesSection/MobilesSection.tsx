@@ -10,11 +10,11 @@ type MobileImage = {
 };
 
 const MobileImages: MobileImage[] = [
-  { src: "/assets/images/iphone_01.png", alt: "iPhone1", speed: 10 },
-  { src: "/assets/images/iphone_02.png", alt: "iPhone2", speed: 20 },
-  { src: "/assets/images/iphone_03.png", alt: "iPhone3", speed: 10 },
-  { src: "/assets/images/iphone_04.png", alt: "iPhone4", speed: 20 },
-  { src: "/assets/images/iphone_05.png", alt: "iPhone5", speed: 10 },
+  { src: "/assist/images/iphone_01.png", alt: "iPhone1", speed: 10 },
+  { src: "/assist/images/iphone_02.png", alt: "iPhone2", speed: 20 },
+  { src: "/assist/images/iphone_03.png", alt: "iPhone3", speed: 10 },
+  { src: "/assist/images/iphone_04.png", alt: "iPhone4", speed: 20 },
+  { src: "/assist/images/iphone_05.png", alt: "iPhone5", speed: 10 },
 ];
 
 const MobilesSection = () => {

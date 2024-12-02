@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "BOOK STORE",
   description: "Apple Books is the single destination to find, buy, and dive into audiobooks and ebooks. Browse curated collections and get personalized recommendations. Share your books with up to five family members.* All with no subscription or monthly commitment.",
   icons: {
-    icon: '/assets/icons/logo.svg'
+    icon: '/assist/logo.svg'
   }
 };
 

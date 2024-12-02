@@ -20,7 +20,7 @@ const Header = () => {
         </NavbarBrand>
         <NavbarToggle />
         <NavbarCollapse>
-          <NavbarLink as={Link}href="#home" active>
+          <NavbarLink s={Link}a href="#home" active>
             Home
           </NavbarLink>
           <NavbarLink as={Link} href="#about">

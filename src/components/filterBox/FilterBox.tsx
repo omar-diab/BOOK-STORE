@@ -11,37 +11,37 @@ const description =
 
 const Bestselling = [
   {
-    src: "/assets/images/book_01.jpg",
+    src: "/assist/images/book_01.jpg",
     title: "Nuclear War",
     author: "Rebecca Yarros",
   },
   {
-    src: "/assets/images/book_02.jpg",
+    src: "/assist/images/book_02.jpg",
     title: "Conviction",
     author: "Denise Mina",
   },
   {
-    src: "/assets/images/book_03.jpg",
+    src: "/assist/images/book_03.jpg",
     title: "Hillbilly Elegy",
     author: "Sarah J.Maas",
   },
   {
-    src: "/assets/images/book_04.jpg",
+    src: "/assist/images/book_04.jpg",
     title: "Harry Poter",
     author: "Liz Moore",
   },
   {
-    src: "/assets/images/book_05.jpg",
+    src: "/assist/images/book_05.jpg",
     title: "Irom Flame",
     author: "Tessa Bailey",
   },
   {
-    src: "/assets/images/book_06.jpg",
+    src: "/assist/images/book_06.jpg",
     title: "Irom Flame",
     author: "Tessa Bailey",
   },
   {
-    src: "/assets/images/book_07.jpg",
+    src: "/assist/images/book_07.jpg",
     title: "Irom Flame",
     author: "Tessa Bailey",
   },
@@ -49,37 +49,37 @@ const Bestselling = [
 
 const Trending = [
   {
-    src: "/assets/images/book_08.jpg",
+    src: "/assist/images/book_08.jpg",
     title: "Nuclear War",
     author: "Rebecca Yarros",
   },
   {
-    src: "/assets/images/book_09.jpg",
+    src: "/assist/images/book_09.jpg",
     title: "Conviction",
     author: "Denise Mina",
   },
   {
-    src: "/assets/images/book_10.jpg",
+    src: "/assist/images/book_10.jpg",
     title: "Hillbilly Elegy",
     author: "Sarah J.Maas",
   },
   {
-    src: "/assets/images/book_11.jpg",
+    src: "/assist/images/book_11.jpg",
     title: "Harry Poter",
     author: "Liz Moore",
   },
   {
-    src: "/assets/images/book_12.jpg",
+    src: "/assist/images/book_12.jpg",
     title: "Irom Flame",
     author: "Tessa Bailey",
   },
   {
-    src: "/assets/images/book_13.jpg",
+    src: "/assist/images/book_13.jpg",
     title: "Irom Flame",
     author: "Tessa Bailey",
   },
   {
-    src: "/assets/images/book_14.jpg",
+    src: "/assist/images/book_14.jpg",
     title: "Irom Flame",
     author: "Tessa Bailey",
   },
